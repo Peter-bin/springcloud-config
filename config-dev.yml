@@ -1,2 +1,2 @@
 config:
-    info: cloud-config-center1 #注册进Eureka服务器的服务名称
+    info: cloud-config-center2 #注册进Eureka服务器的服务名称
